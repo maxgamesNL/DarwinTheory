@@ -1,0 +1,1 @@
+This is a project where im going to try to simulate darwin theory by using neural networks
